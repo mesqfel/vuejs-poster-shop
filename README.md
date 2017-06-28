@@ -1,4 +1,4 @@
-# Mesq-Tube
+# vuejs-poster-shop
 
 A Poster Shop made with ReactJS.<br>
 You will need a imgur API client ID.
