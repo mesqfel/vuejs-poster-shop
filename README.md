@@ -1,6 +1,6 @@
 # vuejs-poster-shop
 
-A Poster Shop made with ReactJS.<br>
+A Poster Shop made with Vue.js.<br>
 You will need a imgur API client ID.
 
 ### Getting Started
