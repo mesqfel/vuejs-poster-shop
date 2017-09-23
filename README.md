@@ -1,7 +1,8 @@
 # vuejs-poster-shop
 
 A Poster Shop made with Vue.js.<br>
-You will need a imgur API client ID.
+You will need a imgur API client ID.<br>
+You can check it live here: https://vuejs-postershop.herokuapp.com/
 
 ### Getting Started
 
